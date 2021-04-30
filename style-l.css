@@ -1,6 +1,6 @@
 /* ### 版面設計 ###*/
 body         {margin: 24px 10px;
-             font-family: Impact, fantasy, '標楷體', Impact, fantasy;<body style="color:#33383d;"}
+             font-family: Impact, fantasy, '標楷體', Impact, fantasy;font color:#33383d;">}
 
 
 #container   {width: 960px;
@@ -60,7 +60,7 @@ body         {margin: 24px 10px;
 /* ### HEADERPOST LEAD###*/
 #headerpost #lead  {float: left;
                     width: 300px;
-                    color: #ffffff;
+                    color: #33383d;
                     margin-left: 25px;}
 
 #headerpost h2     {margin: 20px 0;}
@@ -154,7 +154,7 @@ body         {margin: 24px 10px;
 
 #submenu li a  {display: block;
                width: auto;
-               border-right: solid 1px #ffffff;
+               border-right: solid 1px #33383d;
                text-align: center;
                text-decoration: none;
              color: #ff1e97;
@@ -169,7 +169,7 @@ body         {margin: 24px 10px;
 small  {font-size: 12px;
         font-weight: bold;
         display: block;
-        color: #ffffff;
+        color: ##33383d;
         margin-top: 10px;}
 
 
